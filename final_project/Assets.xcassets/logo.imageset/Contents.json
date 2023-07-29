@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Captura de Tela 2023-07-03 às 22.53.03-fotor-2023070419160.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

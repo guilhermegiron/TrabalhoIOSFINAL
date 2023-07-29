@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FBC6A37-414F-43F1-A953-32236F12F37B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02527D93-EDF6-4D0B-B119-BB71EDD89F01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BE0C150-7D9A-411C-BEF2-C8427214413C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_projectUITests/final_projectUITestsLaunchTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6047ABE3-CFAF-43DC-A505-7B9E845B5EC9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_projectUITests/final_projectUITestsLaunchTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "final_projectUITestsLaunchTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C90A80C-858F-4156-B0A6-EAE6EB159AC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_projectUITests/final_projectUITestsLaunchTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "final_projectUITestsLaunchTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8C90A80C-858F-4156-B0A6-EAE6EB159AC7 - 9010095aca39fc96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_projectUITests.final_projectUITestsLaunchTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; final_projectUITests.final_projectUITestsLaunchTests"
+                  moduleName = "final_projectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user239587/Desktop/GuilhermeGiron/Giron/aula_ios_avancado_exercicio_mvvm/final_projectUITests/final_projectUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "8C90A80C-858F-4156-B0A6-EAE6EB159AC7 - 5a0af493d6832f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_projectUITests.final_projectUITestsLaunchTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; final_projectUITests.final_projectUITestsLaunchTests"
+                  moduleName = "final_projectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user239587/Desktop/GuilhermeGiron/Giron/aula_ios_avancado_exercicio_mvvm/final_projectUITests/final_projectUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "8C90A80C-858F-4156-B0A6-EAE6EB159AC7 - 8e49891a1bac0155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_projectUITests.final_projectUITestsLaunchTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; final_projectUITests.final_projectUITestsLaunchTests"
+                  moduleName = "final_projectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user239587/Desktop/GuilhermeGiron/Giron/aula_ios_avancado_exercicio_mvvm/final_projectUITests/final_projectUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "8C90A80C-858F-4156-B0A6-EAE6EB159AC7 - 41de4c8e1e433533"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_projectUITests.final_projectUITestsLaunchTests.init(selector: ObjectiveC.Selector) -&gt; final_projectUITests.final_projectUITestsLaunchTests"
+                  moduleName = "final_projectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user239587/Desktop/GuilhermeGiron/Giron/aula_ios_avancado_exercicio_mvvm/final_projectUITests/final_projectUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "8C90A80C-858F-4156-B0A6-EAE6EB159AC7 - 7cad00f4b649b089"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_projectUITests.final_projectUITestsLaunchTests.__allocating_init() -&gt; final_projectUITests.final_projectUITestsLaunchTests"
+                  moduleName = "final_projectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user239587/Desktop/GuilhermeGiron/Giron/aula_ios_avancado_exercicio_mvvm/final_projectUITests/final_projectUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8C90A80C-858F-4156-B0A6-EAE6EB159AC7 - 3cc4ac1cff3507b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_projectUITests.final_projectUITestsLaunchTests.init() -&gt; final_projectUITests.final_projectUITestsLaunchTests"
+                  moduleName = "final_projectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user239587/Desktop/GuilhermeGiron/Giron/aula_ios_avancado_exercicio_mvvm/final_projectUITests/final_projectUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "8C90A80C-858F-4156-B0A6-EAE6EB159AC7 - f19404bf68f198e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_projectUITests.final_projectUITestsLaunchTests.__deallocating_deinit"
+                  moduleName = "final_projectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user239587/Desktop/GuilhermeGiron/Giron/aula_ios_avancado_exercicio_mvvm/final_projectUITests/final_projectUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

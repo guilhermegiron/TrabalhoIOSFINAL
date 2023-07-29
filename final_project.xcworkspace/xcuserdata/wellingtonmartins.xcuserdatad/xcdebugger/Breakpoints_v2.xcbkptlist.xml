@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BE8920D2-D63B-4D58-A24D-6962F707EBC9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B96BB2E-0DC9-41ED-807C-0466AEC6D58B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/Model/Movies/MoviesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "setMovies(response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2B7C157-AB6A-4DD1-994D-C36A311EB1DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/Services/Favoritar/FavoritarService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "postFavoritar(title:pontuacaoMedia:totalVotos:imagem:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B477C4F0-21A1-4E38-AD58-2D2AADFDA4CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/Services/Favoritar/FavoritarService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "postFavoritar(title:pontuacaoMedia:totalVotos:imagem:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3916523F-AE4D-4595-9582-E671EDBC8BF9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/ViewModel/Favoritar/FavoritarViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "postFavoritar(title:pontuacaoMedia:totalVotos:imagem:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3916523F-AE4D-4595-9582-E671EDBC8BF9 - 2beb0914f26ca3fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;final_project.FavoritarResponse, final_project.ApiError&gt;) -&gt; () in final_project.FavoritarViewMode.postFavoritar(title: Swift.String, pontuacaoMedia: Swift.String, totalVotos: Swift.String, imagem: Swift.String) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/ViewModel/Favoritar/FavoritarViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "3916523F-AE4D-4595-9582-E671EDBC8BF9 - 2beb0914f26ca3dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;final_project.FavoritarResponse, final_project.ApiError&gt;) -&gt; () in final_project.FavoritarViewMode.postFavoritar(title: Swift.String, pontuacaoMedia: Swift.String, totalVotos: Swift.String, imagem: Swift.String) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/ViewModel/Favoritar/FavoritarViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5EAE5F2-4096-4848-90F3-18CBD837D7A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/ViewModel/MoviesDb/MoviesDbViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getMoviesDb()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59C3D2A4-4DF6-4C8E-9579-0BF30B87142B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/ViewModel/MoviesDb/MoviesDbViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getMoviesDb()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A36B66A-2C57-46D3-94E0-B468B2B2BDCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/Services/MoviesDb/ListaMoviesDbService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getFavoritos(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A36B66A-2C57-46D3-94E0-B468B2B2BDCC - c665453fcb692b47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in final_project.ListaMoviesDbService.getFavoritos(complition: (Swift.Result&lt;Swift.Array&lt;final_project.MovieListDb&gt;, final_project.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/Services/MoviesDb/ListaMoviesDbService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "5A36B66A-2C57-46D3-94E0-B468B2B2BDCC - c665453fcb692b47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in final_project.ListaMoviesDbService.getFavoritos(completion: (Swift.Result&lt;Swift.Array&lt;final_project.MovieListDb&gt;, final_project.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/Services/MoviesDb/ListaMoviesDbService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D53346D3-1D77-4AE6-A397-555416CCEC4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/Services/MoviesDb/ListaMoviesDbService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getFavoritos(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06BE00A6-22E3-465C-AB6F-54FA8310BD2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/View/MoviesList/MoviesListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "didTapCell(position:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D714FA89-99C5-47FF-97A9-ED26A3597AFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/View/MoviesListDb/MoviesListDbController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "didTapCell(position:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "354E1134-CF6D-4A23-8313-ECD76007E824"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/View/MoviesListDb/MoviesListDbController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "didTapCell(position:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "354E1134-CF6D-4A23-8313-ECD76007E824 - 98833e58346aba43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.MoviesListDbController.didTapCell(position: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/View/MoviesListDb/MoviesListDbController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "354E1134-CF6D-4A23-8313-ECD76007E824 - 98833e58346aba43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.MoviesListDbController.didTapCell(position: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/View/MoviesListDb/MoviesListDbController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "354E1134-CF6D-4A23-8313-ECD76007E824 - 98833e58346aba8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.MoviesListDbController.didTapCell(position: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/View/MoviesListDb/MoviesListDbController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "354E1134-CF6D-4A23-8313-ECD76007E824 - 98833e58346aba8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.MoviesListDbController.didTapCell(position: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/View/MoviesListDb/MoviesListDbController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "516C9D9F-F4CF-4FD5-9895-3C7BF83397A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/View/MoviesListDb/MoviesListDbController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8BFBE34-AE4D-4940-A78B-16FD2FD77240"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final_project/Services/MoviesDatailsDb/MoviesDetailsDbService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "editDetailsDb(id:title:pontuacaoMedia:totalVotos:imagem:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8BFBE34-AE4D-4940-A78B-16FD2FD77240 - d34261b64fa292e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in final_project.MoviesDetailsDbService.editDetailsDb(id: Swift.String, title: Swift.String, pontuacaoMedia: Swift.String, totalVotos: Swift.String, imagem: Swift.String, completion: (Swift.Result&lt;final_project.FavoritarResponse, final_project.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/Services/MoviesDatailsDb/MoviesDetailsDbService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "B8BFBE34-AE4D-4940-A78B-16FD2FD77240 - d34261b64fa292e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in final_project.MoviesDetailsDbService.editDetailsDb(id: Swift.String, title: Swift.String, pontuacaoMedia: Swift.String, totalVotos: Swift.String, imagem: Swift.String, completion: (Swift.Result&lt;final_project.FavoritarResponse, final_project.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/projeto%20proff/aula_ios_avancado_exercicio_mvvm/final_project/Services/MoviesDatailsDb/MoviesDetailsDbService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
